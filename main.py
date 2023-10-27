@@ -1,6 +1,6 @@
 
 import argparse
-from parser import PdfParser
+from parser_2 import PdfParser
 
 def main():
     parser = argparse.ArgumentParser(description='PDF parser endpoint')

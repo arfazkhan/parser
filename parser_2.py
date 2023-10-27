@@ -130,6 +130,7 @@ class PdfParser:
                 print(f"Highest Qualification: {qualification}")
                 print(f"College: {college}")
                 print(f"Specialization/Branch: {specialization.strip()}")
+                print(f"Graduation Year: {graduation}")
                 print(f"LinkedIn URL: {linkedin_url}")
                 print(f"GitHub URL: {github_url}")
                 if other_urls:
